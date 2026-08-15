@@ -1,17 +1,45 @@
 [
   {
-    "id": "001",
+    "id": "music-0001",
+
     "title": "想和你结婚圣诞夜里",
+
     "artist": "KWOK",
+
     "album": "想和你结婚圣诞夜里",
-    "filename": "001-christmas.mp3",
-    "category": "music",
-    "format": "mp3",
-    "language": "zh",
-    "duration": "3:09",
-    "size": "7.27MB",
+
+
+    "file": {
+      "name": "001-christmas.mp3",
+      "format": "mp3",
+      "size": "7.27MB"
+    },
+
+
+    "media": {
+      "type": "audio",
+      "category": "music",
+      "language": "zh"
+    },
+
+
+    "audio": {
+      "duration": "03:09",
+      "quality": "standard"
+    },
+
+
     "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01/music/001-christmas.mp3",
+
+
+    "repository": {
+      "name": "jingyan-media-01",
+      "type": "music"
+    },
+
+
     "created": "2026-08-15",
-    "source":"upload"
+
+    "source": "upload"
   }
 ]
