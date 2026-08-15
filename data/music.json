@@ -1,6 +1,6 @@
 [
   {
-    "id": "music-0001",
+    "id": "music-000001",
 
     "title": "想和你结婚圣诞夜里",
 
@@ -8,13 +8,11 @@
 
     "album": "想和你结婚圣诞夜里",
 
-
     "file": {
       "name": "001-christmas.mp3",
       "format": "mp3",
       "size": "7.27MB"
     },
-
 
     "media": {
       "type": "audio",
@@ -22,21 +20,17 @@
       "language": "zh"
     },
 
-
     "audio": {
       "duration": "03:09",
       "quality": "standard"
     },
 
-
     "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01/music/001-christmas.mp3",
-
 
     "repository": {
       "name": "jingyan-media-01",
       "type": "music"
     },
-
 
     "created": "2026-08-15",
 
