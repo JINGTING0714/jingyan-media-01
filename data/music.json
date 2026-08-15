@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "001",
+    "name": "christmas",
+    "file": "001-christmas.mp3",
+    "type": "audio",
+    "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01/music/001-christmas.mp3"
+  }
+]
