@@ -1,0 +1,80 @@
+{
+  "system": "jingyan-media",
+  "version": "1.0",
+
+  "repositories": {
+    "media01": {
+      "name": "jingyan-media-01",
+      "owner": "JINGTING0714",
+      "branch": "main",
+      "cdn": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01/",
+      "folders": {
+        "music": "music/",
+        "video": "video/",
+        "image": "image/"
+      },
+      "data": {
+        "music": "data/music.json",
+        "video": "data/video.json",
+        "image": "data/image.json"
+      }
+    }
+  },
+
+  "fileRules": {
+    "music": {
+      "extensions": [
+        "mp3",
+        "wav",
+        "flac",
+        "m4a"
+      ],
+      "folder": "music"
+    },
+
+    "video": {
+      "extensions": [
+        "mp4",
+        "webm",
+        "mov"
+      ],
+      "folder": "video"
+    },
+
+    "image": {
+      "extensions": [
+        "jpg",
+        "jpeg",
+        "png",
+        "webp",
+        "gif"
+      ],
+      "folder": "image"
+    }
+  },
+
+  "naming": {
+    "format": "id-slug.extension",
+    "idLength": 3,
+    "separator": "-",
+    "lowercase": true,
+    "removeSpecialCharacters": true,
+    "supportLanguages": [
+      "zh",
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "de",
+      "es",
+      "ru",
+      "ar"
+    ]
+  },
+
+  "upload": {
+    "source": "upload",
+    "autoGenerateUrl": true,
+    "autoUpdateJson": true
+  }
+}
