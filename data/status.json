@@ -1,7 +1,10 @@
 {
-  "repository": "jingyan-media-01",
-  "type": "music",
-  "used": "7.27MB",
-  "limit": "700MB",
-  "status": "active"
+  "repository": "JINGTING0714/jingyan-media-01",
+  "id": "audio-01",
+  "type": "audio",
+  "usedMB": 8.4,
+  "targetMB": 700,
+  "overflowToleranceMB": 10,
+  "status": "active",
+  "updatedAt": "2026-08-16T07:59:54.560Z"
 }
