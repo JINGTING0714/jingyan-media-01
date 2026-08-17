@@ -44,5 +44,39 @@
     "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01@main/music/003-fang-da-tong-boarding.mp3",
     "createdAt": "2026-08-16T07:59:53.844Z",
     "source": "upload"
+  },
+  {
+    "id": "music-000004",
+    "operationId": "audio:08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
+    "sha256": "08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
+    "sequence": 4,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Jingyan Test 004.mp3",
+    "originalName": "Jingyan Test 004.mp3.mp3",
+    "filename": "004-jingyan-test-004-mp3.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.107,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/004-jingyan-test-004-mp3.mp3"
+    },
+    "path": "music/004-jingyan-test-004-mp3.mp3",
+    "cdnPath": "/audio/004-jingyan-test-004-mp3.mp3",
+    "url": null,
+    "createdAt": "2026-08-17T05:34:33.516Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
