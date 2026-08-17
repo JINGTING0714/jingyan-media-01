@@ -1,10 +1,12 @@
 {
+  "system": "jingyan-media-center",
   "repository": "JINGTING0714/jingyan-media-01",
   "id": "audio-01",
   "type": "audio",
-  "usedMB": 8.4,
+  "usedMB": 20.833,
   "targetMB": 700,
   "overflowToleranceMB": 10,
   "status": "active",
-  "updatedAt": "2026-08-16T07:59:54.560Z"
+  "state": "active",
+  "updatedAt": "2026-08-17T05:34:39.203Z"
 }
