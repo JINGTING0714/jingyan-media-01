@@ -139,7 +139,7 @@
     "operationId": "audio:b5f50f9391cc44d40215311622f6153efdd35e687af7e3d4bdf9c2d47e19cd6b",
     "sha256": "b5f50f9391cc44d40215311622f6153efdd35e687af7e3d4bdf9c2d47e19cd6b",
     "sequence": 5,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "ヒトリエ - SLEEPWALK",
