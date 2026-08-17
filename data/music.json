@@ -139,9 +139,9 @@
     "operationId": "audio:b5f50f9391cc44d40215311622f6153efdd35e687af7e3d4bdf9c2d47e19cd6b",
     "sha256": "b5f50f9391cc44d40215311622f6153efdd35e687af7e3d4bdf9c2d47e19cd6b",
     "sequence": 5,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "ヒトリエ - SLEEPWALK",
     "originalName": "ヒトリエ - SLEEPWALK.mp3",
     "filename": "005-hito-rie-sleepwalk.mp3",
@@ -161,11 +161,11 @@
     },
     "path": "music/005-hito-rie-sleepwalk.mp3",
     "cdnPath": "/audio/005-hito-rie-sleepwalk.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/005-hito-rie-sleepwalk.mp3",
     "createdAt": "2026-08-17T11:34:09.167Z",
     "sourceCompletedAt": "2026-08-17T11:34:12.820Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-17T11:34:23.515Z",
+    "uploadedAt": "2026-08-17T11:34:23.515Z",
     "uploader": null
   }
 ]
