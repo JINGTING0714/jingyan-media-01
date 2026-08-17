@@ -50,7 +50,7 @@
     "operationId": "audio:08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
     "sha256": "08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
     "sequence": 4,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Jingyan Test 004.mp3",
