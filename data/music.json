@@ -50,9 +50,9 @@
     "operationId": "audio:08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
     "sha256": "08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
     "sequence": 4,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Jingyan Test 004.mp3",
     "originalName": "Jingyan Test 004.mp3.mp3",
     "filename": "004-jingyan-test-004-mp3.mp3",
@@ -72,11 +72,11 @@
     },
     "path": "music/004-jingyan-test-004-mp3.mp3",
     "cdnPath": "/audio/004-jingyan-test-004-mp3.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/004-jingyan-test-004-mp3.mp3",
     "createdAt": "2026-08-17T05:34:33.516Z",
     "sourceCompletedAt": "2026-08-17T05:34:37.562Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-17T05:34:47.690Z",
+    "uploadedAt": "2026-08-17T05:34:47.690Z",
     "uploader": null
   }
 ]
