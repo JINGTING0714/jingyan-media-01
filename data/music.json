@@ -18,7 +18,7 @@
       "duration": "03:09",
       "quality": "standard"
     },
-    "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01/music/001-christmas.mp3",
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/001-christmas.mp3",
     "repository": {
       "id": "audio-01",
       "name": "jingyan-media-01",
@@ -34,9 +34,9 @@
     "operationId": "audio:dad5b8f51d2b5bd945101c4faf84854fd07488981e365c1a1f7c8d64075a2785",
     "sha256": "dad5b8f51d2b5bd945101c4faf84854fd07488981e365c1a1f7c8d64075a2785",
     "sequence": 1,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "originalName": "001-christmas.mp3",
     "filename": "001-christmas.mp3",
     "type": "audio",
@@ -46,7 +46,7 @@
     "cdnPath": "/audio/001-christmas.mp3",
     "createdAt": null,
     "sourceCompletedAt": "2026-08-17T06:22:30.078Z",
-    "cdnPublishedAt": null,
+    "cdnPublishedAt": "2026-08-17T06:22:41.114Z",
     "uploadedAt": null,
     "uploader": null,
     "legacy": {
@@ -73,7 +73,7 @@
       "fullName": "JINGTING0714/jingyan-media-01"
     },
     "path": "music/003-fang-da-tong-boarding.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01@main/music/003-fang-da-tong-boarding.mp3",
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/003-fang-da-tong-boarding.mp3",
     "createdAt": "2026-08-16T07:59:53.844Z",
     "source": {
       "repositoryId": "audio-01",
@@ -83,12 +83,12 @@
     },
     "operationId": "audio:8ddd21fe71e8d79861f6f9fa21a854206e3000b97535bbcab715852672451a7c",
     "sha256": "8ddd21fe71e8d79861f6f9fa21a854206e3000b97535bbcab715852672451a7c",
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "cdnPath": "/audio/003-fang-da-tong-boarding.mp3",
     "sourceCompletedAt": "2026-08-17T06:22:30.078Z",
-    "cdnPublishedAt": null,
+    "cdnPublishedAt": "2026-08-17T06:22:41.114Z",
     "uploadedAt": null,
     "uploader": null,
     "legacy": {
