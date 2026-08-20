@@ -310,9 +310,9 @@
     "operationId": "audio:4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
     "sha256": "4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
     "sequence": 13,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "四人游",
     "originalName": "四人游.mp3",
     "filename": "013-si-ren-you.mp3",
@@ -332,11 +332,11 @@
     },
     "path": "music/013-si-ren-you.mp3",
     "cdnPath": "/audio/013-si-ren-you.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/013-si-ren-you.mp3",
     "createdAt": "2026-08-20T11:25:43.227Z",
     "sourceCompletedAt": "2026-08-20T11:25:46.816Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:25:55.899Z",
+    "uploadedAt": "2026-08-20T11:25:55.899Z",
     "uploader": null
   }
 ]
