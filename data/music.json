@@ -242,9 +242,9 @@
     "operationId": "audio:6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
     "sha256": "6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
     "sequence": 11,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "幸福这件小事情",
     "originalName": "幸福这件小事情.mp3",
     "filename": "011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
@@ -264,11 +264,11 @@
     },
     "path": "music/011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
     "cdnPath": "/audio/011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
     "createdAt": "2026-08-20T11:21:27.889Z",
     "sourceCompletedAt": "2026-08-20T11:21:35.382Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:21:46.162Z",
+    "uploadedAt": "2026-08-20T11:21:46.162Z",
     "uploader": null
   }
 ]
