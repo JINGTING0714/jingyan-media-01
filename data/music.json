@@ -304,5 +304,39 @@
     "cdnPublishedAt": "2026-08-20T11:25:36.681Z",
     "uploadedAt": "2026-08-20T11:25:36.681Z",
     "uploader": null
+  },
+  {
+    "id": "music-000013",
+    "operationId": "audio:4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
+    "sha256": "4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
+    "sequence": 13,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "四人游",
+    "originalName": "四人游.mp3",
+    "filename": "013-si-ren-you.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.711,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/013-si-ren-you.mp3"
+    },
+    "path": "music/013-si-ren-you.mp3",
+    "cdnPath": "/audio/013-si-ren-you.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:25:43.227Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
