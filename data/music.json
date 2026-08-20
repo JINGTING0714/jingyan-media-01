@@ -480,9 +480,9 @@
     "operationId": "audio:31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
     "sha256": "31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
     "sequence": 18,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "唉!",
     "originalName": "唉!.mp3",
     "filename": "018-ai.mp3",
@@ -502,11 +502,11 @@
     },
     "path": "music/018-ai.mp3",
     "cdnPath": "/audio/018-ai.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/018-ai.mp3",
     "createdAt": "2026-08-20T11:27:21.044Z",
     "sourceCompletedAt": "2026-08-20T11:27:26.999Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:27:35.679Z",
+    "uploadedAt": "2026-08-20T11:27:35.679Z",
     "uploader": null
   }
 ]
