@@ -309,7 +309,7 @@
     "operationId": "audio:1e9460a550e319a6706e53d3c913fa158d0e0a4c6b9cb4bee25fb5ade0d1363b",
     "sha256": "1e9460a550e319a6706e53d3c913fa158d0e0a4c6b9cb4bee25fb5ade0d1363b",
     "sequence": 10,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "直觉",
