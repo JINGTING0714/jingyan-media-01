@@ -508,5 +508,39 @@
     "cdnPublishedAt": "2026-08-20T11:27:35.679Z",
     "uploadedAt": "2026-08-20T11:27:35.679Z",
     "uploader": null
+  },
+  {
+    "id": "music-000019",
+    "operationId": "audio:1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
+    "sha256": "1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
+    "sequence": 19,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "爱爱爱",
+    "originalName": "爱爱爱.mp3",
+    "filename": "019-ai-ai-ai.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.139,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/019-ai-ai-ai.mp3"
+    },
+    "path": "music/019-ai-ai-ai.mp3",
+    "cdnPath": "/audio/019-ai-ai-ai.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:27:41.664Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
