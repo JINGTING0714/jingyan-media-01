@@ -167,5 +167,39 @@
     "cdnPublishedAt": "2026-08-17T11:34:23.515Z",
     "uploadedAt": "2026-08-17T11:34:23.515Z",
     "uploader": null
+  },
+  {
+    "id": "music-000006",
+    "operationId": "audio:d36768a180b1d49336fa0585dcfcff6d4ab8ef70bc5159d63144d09d812b9947",
+    "sha256": "d36768a180b1d49336fa0585dcfcff6d4ab8ef70bc5159d63144d09d812b9947",
+    "sequence": 6,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Funny Sh#%",
+    "originalName": "Funny Sh#%.mp3",
+    "filename": "006-funny-sh.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 7.585,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/006-funny-sh.mp3"
+    },
+    "path": "music/006-funny-sh.mp3",
+    "cdnPath": "/audio/006-funny-sh.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T04:54:28.277Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
