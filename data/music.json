@@ -276,9 +276,9 @@
     "operationId": "audio:fcff100d57b6019e2b7df4e0f1aa58c623f69ece5ac437dc7bc8e65c7d7c22e1",
     "sha256": "fcff100d57b6019e2b7df4e0f1aa58c623f69ece5ac437dc7bc8e65c7d7c22e1",
     "sequence": 12,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "手拖手",
     "originalName": "手拖手.mp3",
     "filename": "012-shou-tuo-shou.mp3",
@@ -298,11 +298,11 @@
     },
     "path": "music/012-shou-tuo-shou.mp3",
     "cdnPath": "/audio/012-shou-tuo-shou.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/012-shou-tuo-shou.mp3",
     "createdAt": "2026-08-20T11:25:24.219Z",
     "sourceCompletedAt": "2026-08-20T11:25:27.199Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:25:36.681Z",
+    "uploadedAt": "2026-08-20T11:25:36.681Z",
     "uploader": null
   }
 ]
