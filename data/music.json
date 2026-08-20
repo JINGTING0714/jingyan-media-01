@@ -650,9 +650,9 @@
     "operationId": "audio:d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
     "sha256": "d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
     "sequence": 23,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "If You Leave Me Now",
     "originalName": "If You Leave Me Now.mp3",
     "filename": "023-if-you-leave-me-now.mp3",
@@ -672,11 +672,11 @@
     },
     "path": "music/023-if-you-leave-me-now.mp3",
     "cdnPath": "/audio/023-if-you-leave-me-now.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/023-if-you-leave-me-now.mp3",
     "createdAt": "2026-08-20T11:28:54.299Z",
     "sourceCompletedAt": "2026-08-20T11:28:58.775Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:29:06.969Z",
+    "uploadedAt": "2026-08-20T11:29:06.969Z",
     "uploader": null
   }
 ]
