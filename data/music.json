@@ -309,9 +309,9 @@
     "operationId": "audio:1e9460a550e319a6706e53d3c913fa158d0e0a4c6b9cb4bee25fb5ade0d1363b",
     "sha256": "1e9460a550e319a6706e53d3c913fa158d0e0a4c6b9cb4bee25fb5ade0d1363b",
     "sequence": 10,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "直觉",
     "originalName": "直觉.mp3",
     "filename": "010-zhi-jue.mp3",
@@ -331,11 +331,11 @@
     },
     "path": "music/010-zhi-jue.mp3",
     "cdnPath": "/audio/010-zhi-jue.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/010-zhi-jue.mp3",
     "createdAt": "2026-08-20T10:07:00.436Z",
     "sourceCompletedAt": "2026-08-20T10:07:05.397Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T10:07:18.036Z",
+    "uploadedAt": "2026-08-20T10:07:18.036Z",
     "uploader": null
   }
 ]
