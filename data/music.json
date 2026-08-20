@@ -542,5 +542,39 @@
     "cdnPublishedAt": "2026-08-20T11:27:53.743Z",
     "uploadedAt": "2026-08-20T11:27:53.743Z",
     "uploader": null
+  },
+  {
+    "id": "music-000020",
+    "operationId": "audio:1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
+    "sha256": "1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
+    "sequence": 20,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "偷笑",
+    "originalName": "偷笑.mp3",
+    "filename": "020-tou-xiao.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.663,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/020-tou-xiao.mp3"
+    },
+    "path": "music/020-tou-xiao.mp3",
+    "cdnPath": "/audio/020-tou-xiao.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:27:59.762Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
