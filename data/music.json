@@ -241,7 +241,7 @@
     "operationId": "audio:9b7d3d817b4165c22bea2ab8e8dbd80b3322fbcb18ed75017708339870d094af",
     "sha256": "9b7d3d817b4165c22bea2ab8e8dbd80b3322fbcb18ed75017708339870d094af",
     "sequence": 8,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - Peace (iTunes Session)",
