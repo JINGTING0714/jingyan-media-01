@@ -59,48 +59,6 @@
     }
   },
   {
-    "id": "music-000003",
-    "sequence": 3,
-    "title": "方大同 - Boarding",
-    "originalName": "方大同 - Boarding.mp3",
-    "filename": "003-fang-da-tong-boarding.mp3",
-    "type": "audio",
-    "format": "mp3",
-    "sizeMB": 1.114,
-    "repository": {
-      "id": "audio-01",
-      "name": "jingyan-media-01",
-      "fullName": "JINGTING0714/jingyan-media-01"
-    },
-    "path": "music/003-fang-da-tong-boarding.mp3",
-    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/003-fang-da-tong-boarding.mp3",
-    "createdAt": "2026-08-16T07:59:53.844Z",
-    "source": {
-      "repositoryId": "audio-01",
-      "repo": "JINGTING0714/jingyan-media-01",
-      "branch": "main",
-      "path": "music/003-fang-da-tong-boarding.mp3"
-    },
-    "operationId": "audio:8ddd21fe71e8d79861f6f9fa21a854206e3000b97535bbcab715852672451a7c",
-    "sha256": "8ddd21fe71e8d79861f6f9fa21a854206e3000b97535bbcab715852672451a7c",
-    "status": "complete",
-    "sourceStatus": "complete",
-    "cdnStatus": "published",
-    "cdnPath": "/audio/003-fang-da-tong-boarding.mp3",
-    "sourceCompletedAt": "2026-08-17T06:22:30.078Z",
-    "cdnPublishedAt": "2026-08-17T06:22:41.114Z",
-    "uploadedAt": null,
-    "uploader": null,
-    "legacy": {
-      "migrationVersion": 1,
-      "migratedAt": "2026-08-17T06:22:30.078Z",
-      "migratedFrom": "source-database",
-      "previousUrl": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-media-01@main/music/003-fang-da-tong-boarding.mp3",
-      "previousSource": "upload",
-      "previousId": "music-000003"
-    }
-  },
-  {
     "id": "music-000004",
     "operationId": "audio:08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
     "sha256": "08a6261486d3cc2e59e4eab42e58fb3d3b77d997d767edd2fa85a5a70198e224",
