@@ -440,5 +440,39 @@
     "cdnPublishedAt": "2026-08-20T11:26:56.089Z",
     "uploadedAt": "2026-08-20T11:26:56.089Z",
     "uploader": null
+  },
+  {
+    "id": "music-000017",
+    "operationId": "audio:d1e7e7e0f5f397ebd59b9e0b8cc2620ad1e168a8216a40166e2ff500091c38ca",
+    "sha256": "d1e7e7e0f5f397ebd59b9e0b8cc2620ad1e168a8216a40166e2ff500091c38ca",
+    "sequence": 17,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "春风吹之吹吹风mix",
+    "originalName": "春风吹之吹吹风mix.mp3",
+    "filename": "017-chun-feng-chui-zhi-chui-chui-fengmix.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 7.792,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/017-chun-feng-chui-zhi-chui-chui-fengmix.mp3"
+    },
+    "path": "music/017-chun-feng-chui-zhi-chui-chui-fengmix.mp3",
+    "cdnPath": "/audio/017-chun-feng-chui-zhi-chui-chui-fengmix.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:27:02.229Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
