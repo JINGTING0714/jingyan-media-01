@@ -480,7 +480,7 @@
     "operationId": "audio:31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
     "sha256": "31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
     "sequence": 18,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "唉!",
