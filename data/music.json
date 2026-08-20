@@ -275,9 +275,9 @@
     "operationId": "audio:db6f0dead36d04ba88bf4ca11bd7fec6e823fa218d367989dca097bf88c0ac45",
     "sha256": "db6f0dead36d04ba88bf4ca11bd7fec6e823fa218d367989dca097bf88c0ac45",
     "sequence": 9,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "方大同 - 黑夜",
     "originalName": "方大同 - 黑夜.mp3",
     "filename": "009-fang-da-tong-hei-ye.mp3",
@@ -297,11 +297,11 @@
     },
     "path": "music/009-fang-da-tong-hei-ye.mp3",
     "cdnPath": "/audio/009-fang-da-tong-hei-ye.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/009-fang-da-tong-hei-ye.mp3",
     "createdAt": "2026-08-20T07:08:14.636Z",
     "sourceCompletedAt": "2026-08-20T07:08:22.130Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T07:08:33.683Z",
+    "uploadedAt": "2026-08-20T07:08:33.683Z",
     "uploader": null
   }
 ]
