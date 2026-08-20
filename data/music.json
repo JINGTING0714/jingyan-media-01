@@ -548,9 +548,9 @@
     "operationId": "audio:1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
     "sha256": "1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
     "sequence": 20,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "偷笑",
     "originalName": "偷笑.mp3",
     "filename": "020-tou-xiao.mp3",
@@ -570,11 +570,11 @@
     },
     "path": "music/020-tou-xiao.mp3",
     "cdnPath": "/audio/020-tou-xiao.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/020-tou-xiao.mp3",
     "createdAt": "2026-08-20T11:27:59.762Z",
     "sourceCompletedAt": "2026-08-20T11:28:03.158Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:28:12.122Z",
+    "uploadedAt": "2026-08-20T11:28:12.122Z",
     "uploader": null
   }
 ]
