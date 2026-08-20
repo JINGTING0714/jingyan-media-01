@@ -173,9 +173,9 @@
     "operationId": "audio:d36768a180b1d49336fa0585dcfcff6d4ab8ef70bc5159d63144d09d812b9947",
     "sha256": "d36768a180b1d49336fa0585dcfcff6d4ab8ef70bc5159d63144d09d812b9947",
     "sequence": 6,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Funny Sh#%",
     "originalName": "Funny Sh#%.mp3",
     "filename": "006-funny-sh.mp3",
@@ -195,11 +195,11 @@
     },
     "path": "music/006-funny-sh.mp3",
     "cdnPath": "/audio/006-funny-sh.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/006-funny-sh.mp3",
     "createdAt": "2026-08-20T04:54:28.277Z",
     "sourceCompletedAt": "2026-08-20T04:54:31.480Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T04:54:42.696Z",
+    "uploadedAt": "2026-08-20T04:54:42.696Z",
     "uploader": null
   }
 ]
