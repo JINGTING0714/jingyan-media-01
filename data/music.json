@@ -344,7 +344,7 @@
     "operationId": "audio:f2bd0d8632e02ecb7273212e6b94eba5b34cb3dc71658c08bb9d82e68b689355",
     "sha256": "f2bd0d8632e02ecb7273212e6b94eba5b34cb3dc71658c08bb9d82e68b689355",
     "sequence": 14,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "拖男带女",
