@@ -514,9 +514,9 @@
     "operationId": "audio:1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
     "sha256": "1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
     "sequence": 19,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "爱爱爱",
     "originalName": "爱爱爱.mp3",
     "filename": "019-ai-ai-ai.mp3",
@@ -536,11 +536,11 @@
     },
     "path": "music/019-ai-ai-ai.mp3",
     "cdnPath": "/audio/019-ai-ai-ai.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/019-ai-ai-ai.mp3",
     "createdAt": "2026-08-20T11:27:41.664Z",
     "sourceCompletedAt": "2026-08-20T11:27:45.083Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:27:53.743Z",
+    "uploadedAt": "2026-08-20T11:27:53.743Z",
     "uploader": null
   }
 ]
