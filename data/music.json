@@ -548,7 +548,7 @@
     "operationId": "audio:1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
     "sha256": "1475ba7d639a23a91737ca1137cd3fcec8cf12a13c6dfa636345f7d9c804a850",
     "sequence": 20,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "偷笑",
