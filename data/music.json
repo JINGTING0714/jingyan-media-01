@@ -201,5 +201,39 @@
     "cdnPublishedAt": "2026-08-20T04:54:42.696Z",
     "uploadedAt": "2026-08-20T04:54:42.696Z",
     "uploader": null
+  },
+  {
+    "id": "music-000007",
+    "operationId": "audio:e71b1f588514a2204bd871c6786c7fc19b77804146b7ea12d20e6f73cdb5523d",
+    "sha256": "e71b1f588514a2204bd871c6786c7fc19b77804146b7ea12d20e6f73cdb5523d",
+    "sequence": 7,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "宇多田ヒカル - Beautiful World",
+    "originalName": "宇多田ヒカル - Beautiful World.mp3",
+    "filename": "007-utada-hikaru-beautiful-world.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 12.354,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/007-utada-hikaru-beautiful-world.mp3"
+    },
+    "path": "music/007-utada-hikaru-beautiful-world.mp3",
+    "cdnPath": "/audio/007-utada-hikaru-beautiful-world.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T05:22:12.333Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
