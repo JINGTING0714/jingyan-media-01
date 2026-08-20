@@ -616,7 +616,7 @@
     "operationId": "audio:4504676fb18e8601f06aa44634a1104b4bae152c0850975786314436d41929d3",
     "sha256": "4504676fb18e8601f06aa44634a1104b4bae152c0850975786314436d41929d3",
     "sequence": 22,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Goodbye Melody Rose",
