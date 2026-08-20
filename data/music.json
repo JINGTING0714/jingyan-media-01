@@ -576,5 +576,39 @@
     "cdnPublishedAt": "2026-08-20T11:28:12.122Z",
     "uploadedAt": "2026-08-20T11:28:12.122Z",
     "uploader": null
+  },
+  {
+    "id": "music-000021",
+    "operationId": "audio:e192849a9f08c12ba22a2aebdba1eaabbe4c97fb139579facc988b0acc1d0504",
+    "sha256": "e192849a9f08c12ba22a2aebdba1eaabbe4c97fb139579facc988b0acc1d0504",
+    "sequence": 21,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "歌手与模特儿",
+    "originalName": "歌手与模特儿.mp3",
+    "filename": "021-ge-shou-yu-mo-te-er.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.46,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/021-ge-shou-yu-mo-te-er.mp3"
+    },
+    "path": "music/021-ge-shou-yu-mo-te-er.mp3",
+    "cdnPath": "/audio/021-ge-shou-yu-mo-te-er.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:28:18.427Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
