@@ -207,7 +207,7 @@
     "operationId": "audio:e71b1f588514a2204bd871c6786c7fc19b77804146b7ea12d20e6f73cdb5523d",
     "sha256": "e71b1f588514a2204bd871c6786c7fc19b77804146b7ea12d20e6f73cdb5523d",
     "sequence": 7,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "宇多田ヒカル - Beautiful World",
