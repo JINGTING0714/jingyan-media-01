@@ -474,5 +474,39 @@
     "cdnPublishedAt": "2026-08-20T11:27:14.909Z",
     "uploadedAt": "2026-08-20T11:27:14.909Z",
     "uploader": null
+  },
+  {
+    "id": "music-000018",
+    "operationId": "audio:31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
+    "sha256": "31dfea3f590b44d71ad4805d929223cfd1cbedefd9916f1fe3e77784b6342f2d",
+    "sequence": 18,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "唉!",
+    "originalName": "唉!.mp3",
+    "filename": "018-ai.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.422,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/018-ai.mp3"
+    },
+    "path": "music/018-ai.mp3",
+    "cdnPath": "/audio/018-ai.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:27:21.044Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
