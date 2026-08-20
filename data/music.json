@@ -276,7 +276,7 @@
     "operationId": "audio:fcff100d57b6019e2b7df4e0f1aa58c623f69ece5ac437dc7bc8e65c7d7c22e1",
     "sha256": "fcff100d57b6019e2b7df4e0f1aa58c623f69ece5ac437dc7bc8e65c7d7c22e1",
     "sequence": 12,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "手拖手",
