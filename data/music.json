@@ -616,9 +616,9 @@
     "operationId": "audio:4504676fb18e8601f06aa44634a1104b4bae152c0850975786314436d41929d3",
     "sha256": "4504676fb18e8601f06aa44634a1104b4bae152c0850975786314436d41929d3",
     "sequence": 22,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Goodbye Melody Rose",
     "originalName": "Goodbye Melody Rose.mp3",
     "filename": "022-goodbye-melody-rose.mp3",
@@ -638,11 +638,11 @@
     },
     "path": "music/022-goodbye-melody-rose.mp3",
     "cdnPath": "/audio/022-goodbye-melody-rose.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/022-goodbye-melody-rose.mp3",
     "createdAt": "2026-08-20T11:28:36.697Z",
     "sourceCompletedAt": "2026-08-20T11:28:39.898Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:28:48.178Z",
+    "uploadedAt": "2026-08-20T11:28:48.178Z",
     "uploader": null
   }
 ]
