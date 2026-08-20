@@ -446,7 +446,7 @@
     "operationId": "audio:d1e7e7e0f5f397ebd59b9e0b8cc2620ad1e168a8216a40166e2ff500091c38ca",
     "sha256": "d1e7e7e0f5f397ebd59b9e0b8cc2620ad1e168a8216a40166e2ff500091c38ca",
     "sequence": 17,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "春风吹之吹吹风mix",
