@@ -644,5 +644,39 @@
     "cdnPublishedAt": "2026-08-20T11:28:48.178Z",
     "uploadedAt": "2026-08-20T11:28:48.178Z",
     "uploader": null
+  },
+  {
+    "id": "music-000023",
+    "operationId": "audio:d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
+    "sha256": "d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
+    "sequence": 23,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "If You Leave Me Now",
+    "originalName": "If You Leave Me Now.mp3",
+    "filename": "023-if-you-leave-me-now.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.509,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/023-if-you-leave-me-now.mp3"
+    },
+    "path": "music/023-if-you-leave-me-now.mp3",
+    "cdnPath": "/audio/023-if-you-leave-me-now.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:28:54.299Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
