@@ -378,7 +378,7 @@
     "operationId": "audio:cb540d6bc64a2cc33f382f3b0c4c584bddb479f20e38654200a7adbd364e92a2",
     "sha256": "cb540d6bc64a2cc33f382f3b0c4c584bddb479f20e38654200a7adbd364e92a2",
     "sequence": 15,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "苏丽珍",
