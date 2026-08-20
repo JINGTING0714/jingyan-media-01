@@ -242,7 +242,7 @@
     "operationId": "audio:6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
     "sha256": "6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
     "sequence": 11,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "幸福这件小事情",
