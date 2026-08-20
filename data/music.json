@@ -650,7 +650,7 @@
     "operationId": "audio:d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
     "sha256": "d34b9186f9b5f05337c2ce2735ceb3f2b69bef6def2a463bcc88b75de818fa76",
     "sequence": 23,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "If You Leave Me Now",
