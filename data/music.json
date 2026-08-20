@@ -241,9 +241,9 @@
     "operationId": "audio:9b7d3d817b4165c22bea2ab8e8dbd80b3322fbcb18ed75017708339870d094af",
     "sha256": "9b7d3d817b4165c22bea2ab8e8dbd80b3322fbcb18ed75017708339870d094af",
     "sequence": 8,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "方大同 - Peace (iTunes Session)",
     "originalName": "方大同 - Peace (iTunes Session).mp3",
     "filename": "008-fang-da-tong-peace-itunes-session.mp3",
@@ -263,11 +263,11 @@
     },
     "path": "music/008-fang-da-tong-peace-itunes-session.mp3",
     "cdnPath": "/audio/008-fang-da-tong-peace-itunes-session.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/008-fang-da-tong-peace-itunes-session.mp3",
     "createdAt": "2026-08-20T06:02:40.034Z",
     "sourceCompletedAt": "2026-08-20T06:02:45.389Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T06:02:56.362Z",
+    "uploadedAt": "2026-08-20T06:02:56.362Z",
     "uploader": null
   }
 ]
