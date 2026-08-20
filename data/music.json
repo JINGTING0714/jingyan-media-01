@@ -275,7 +275,7 @@
     "operationId": "audio:db6f0dead36d04ba88bf4ca11bd7fec6e823fa218d367989dca097bf88c0ac45",
     "sha256": "db6f0dead36d04ba88bf4ca11bd7fec6e823fa218d367989dca097bf88c0ac45",
     "sequence": 9,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - 黑夜",
