@@ -582,7 +582,7 @@
     "operationId": "audio:e192849a9f08c12ba22a2aebdba1eaabbe4c97fb139579facc988b0acc1d0504",
     "sha256": "e192849a9f08c12ba22a2aebdba1eaabbe4c97fb139579facc988b0acc1d0504",
     "sequence": 21,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "歌手与模特儿",
