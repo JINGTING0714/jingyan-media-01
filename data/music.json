@@ -412,9 +412,9 @@
     "operationId": "audio:1ca06f38215753fc14e17ff516671b0cc7f4397f702b4a30b5aac9a1142bc1a2",
     "sha256": "1ca06f38215753fc14e17ff516671b0cc7f4397f702b4a30b5aac9a1142bc1a2",
     "sequence": 16,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "诗人的情人",
     "originalName": "诗人的情人.mp3",
     "filename": "016-shi-ren-de-qing-ren.mp3",
@@ -434,11 +434,11 @@
     },
     "path": "music/016-shi-ren-de-qing-ren.mp3",
     "cdnPath": "/audio/016-shi-ren-de-qing-ren.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/016-shi-ren-de-qing-ren.mp3",
     "createdAt": "2026-08-20T11:26:43.121Z",
     "sourceCompletedAt": "2026-08-20T11:26:47.014Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:26:56.089Z",
+    "uploadedAt": "2026-08-20T11:26:56.089Z",
     "uploader": null
   }
 ]
