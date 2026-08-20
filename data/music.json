@@ -344,9 +344,9 @@
     "operationId": "audio:f2bd0d8632e02ecb7273212e6b94eba5b34cb3dc71658c08bb9d82e68b689355",
     "sha256": "f2bd0d8632e02ecb7273212e6b94eba5b34cb3dc71658c08bb9d82e68b689355",
     "sequence": 14,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "拖男带女",
     "originalName": "拖男带女.mp3",
     "filename": "014-tuo-nan-dai-nue.mp3",
@@ -366,11 +366,11 @@
     },
     "path": "music/014-tuo-nan-dai-nue.mp3",
     "cdnPath": "/audio/014-tuo-nan-dai-nue.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/014-tuo-nan-dai-nue.mp3",
     "createdAt": "2026-08-20T11:26:02.327Z",
     "sourceCompletedAt": "2026-08-20T11:26:07.560Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-20T11:26:17.100Z",
+    "uploadedAt": "2026-08-20T11:26:17.100Z",
     "uploader": null
   }
 ]
