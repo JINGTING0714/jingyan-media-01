@@ -310,7 +310,7 @@
     "operationId": "audio:4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
     "sha256": "4d5e36f9806eb5b3a18d8f91dd9f22c26dbb2f5614430ed6bb3f48f1972eb216",
     "sequence": 13,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "四人游",
