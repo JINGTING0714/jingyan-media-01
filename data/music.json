@@ -514,7 +514,7 @@
     "operationId": "audio:1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
     "sha256": "1e8b6266401067fd76c273b3c9fe855b338f37651db73521e0b95ab0e906a748",
     "sequence": 19,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "爱爱爱",
