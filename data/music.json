@@ -412,7 +412,7 @@
     "operationId": "audio:1ca06f38215753fc14e17ff516671b0cc7f4397f702b4a30b5aac9a1142bc1a2",
     "sha256": "1ca06f38215753fc14e17ff516671b0cc7f4397f702b4a30b5aac9a1142bc1a2",
     "sequence": 16,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "诗人的情人",
