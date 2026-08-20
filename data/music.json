@@ -236,5 +236,39 @@
     "cdnPublishedAt": "2026-08-20T10:07:18.036Z",
     "uploadedAt": "2026-08-20T10:07:18.036Z",
     "uploader": null
+  },
+  {
+    "id": "music-000011",
+    "operationId": "audio:6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
+    "sha256": "6ab9742bdc2a51373c68a9906deaa1a23292341e5940c3984e12b0b5224b743b",
+    "sequence": 11,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "幸福这件小事情",
+    "originalName": "幸福这件小事情.mp3",
+    "filename": "011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.915,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/011-xing-fu-zhe-jian-xiao-shi-qing.mp3"
+    },
+    "path": "music/011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
+    "cdnPath": "/audio/011-xing-fu-zhe-jian-xiao-shi-qing.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:21:27.889Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
