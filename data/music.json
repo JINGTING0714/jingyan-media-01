@@ -372,5 +372,39 @@
     "cdnPublishedAt": "2026-08-20T11:26:17.100Z",
     "uploadedAt": "2026-08-20T11:26:17.100Z",
     "uploader": null
+  },
+  {
+    "id": "music-000015",
+    "operationId": "audio:cb540d6bc64a2cc33f382f3b0c4c584bddb479f20e38654200a7adbd364e92a2",
+    "sha256": "cb540d6bc64a2cc33f382f3b0c4c584bddb479f20e38654200a7adbd364e92a2",
+    "sequence": 15,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "苏丽珍",
+    "originalName": "苏丽珍.mp3",
+    "filename": "015-su-li-zhen.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.284,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/015-su-li-zhen.mp3"
+    },
+    "path": "music/015-su-li-zhen.mp3",
+    "cdnPath": "/audio/015-su-li-zhen.mp3",
+    "url": null,
+    "createdAt": "2026-08-20T11:26:23.602Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
