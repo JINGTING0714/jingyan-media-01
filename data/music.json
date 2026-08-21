@@ -746,5 +746,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000026",
+    "operationId": "audio:2f537a280395c06d78b2b0bc22aa1f2589026b697fbdf8776d4c661369230665",
+    "sha256": "2f537a280395c06d78b2b0bc22aa1f2589026b697fbdf8776d4c661369230665",
+    "sequence": 26,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "方大同 - 才二十三",
+    "originalName": "方大同 - 才二十三.mp3",
+    "filename": "026-fang-da-tong-cai-er-shi-san.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.594,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/026-fang-da-tong-cai-er-shi-san.mp3"
+    },
+    "path": "music/026-fang-da-tong-cai-er-shi-san.mp3",
+    "cdnPath": "/audio/026-fang-da-tong-cai-er-shi-san.mp3",
+    "url": null,
+    "createdAt": "2026-08-21T03:41:48.835Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
