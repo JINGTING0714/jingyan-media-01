@@ -684,7 +684,7 @@
     "operationId": "audio:e1dec50b877b88d57e4015fc0141576c214d897ab02d699428b9552c53f47ea2",
     "sha256": "e1dec50b877b88d57e4015fc0141576c214d897ab02d699428b9552c53f47ea2",
     "sequence": 24,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - 没啥好说",
