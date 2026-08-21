@@ -752,7 +752,7 @@
     "operationId": "audio:2f537a280395c06d78b2b0bc22aa1f2589026b697fbdf8776d4c661369230665",
     "sha256": "2f537a280395c06d78b2b0bc22aa1f2589026b697fbdf8776d4c661369230665",
     "sequence": 26,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - 才二十三",
