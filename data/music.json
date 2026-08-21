@@ -678,5 +678,39 @@
     "cdnPublishedAt": "2026-08-20T11:29:06.969Z",
     "uploadedAt": "2026-08-20T11:29:06.969Z",
     "uploader": null
+  },
+  {
+    "id": "music-000024",
+    "operationId": "audio:e1dec50b877b88d57e4015fc0141576c214d897ab02d699428b9552c53f47ea2",
+    "sha256": "e1dec50b877b88d57e4015fc0141576c214d897ab02d699428b9552c53f47ea2",
+    "sequence": 24,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "方大同 - 没啥好说",
+    "originalName": "方大同 - 没啥好说.mp3",
+    "filename": "024-fang-da-tong-mei-sha-hao-shuo.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.033,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/024-fang-da-tong-mei-sha-hao-shuo.mp3"
+    },
+    "path": "music/024-fang-da-tong-mei-sha-hao-shuo.mp3",
+    "cdnPath": "/audio/024-fang-da-tong-mei-sha-hao-shuo.mp3",
+    "url": null,
+    "createdAt": "2026-08-21T03:41:19.198Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
