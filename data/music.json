@@ -786,9 +786,9 @@
     "operationId": "audio:ffd511f4d44b2a2747b1108e3d365064faaded6bbbe3cecb27eef69e994b0cf4",
     "sha256": "ffd511f4d44b2a2747b1108e3d365064faaded6bbbe3cecb27eef69e994b0cf4",
     "sequence": 27,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "方大同 - Lights Up",
     "originalName": "方大同 - Lights Up.mp3",
     "filename": "027-fang-da-tong-lights-up.mp3",
@@ -808,11 +808,11 @@
     },
     "path": "music/027-fang-da-tong-lights-up.mp3",
     "cdnPath": "/audio/027-fang-da-tong-lights-up.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/027-fang-da-tong-lights-up.mp3",
     "createdAt": "2026-08-21T03:44:05.403Z",
     "sourceCompletedAt": "2026-08-21T03:44:11.584Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-21T03:44:23.140Z",
+    "uploadedAt": "2026-08-21T03:44:23.140Z",
     "uploader": null
   }
 ]
