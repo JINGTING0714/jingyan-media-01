@@ -718,7 +718,7 @@
     "operationId": "audio:a8883be709a1d45953e6b2cd020b131dbe0ee32ce63dc931fc8c16b1059a8494",
     "sha256": "a8883be709a1d45953e6b2cd020b131dbe0ee32ce63dc931fc8c16b1059a8494",
     "sequence": 25,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - 回留",
