@@ -712,5 +712,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000025",
+    "operationId": "audio:a8883be709a1d45953e6b2cd020b131dbe0ee32ce63dc931fc8c16b1059a8494",
+    "sha256": "a8883be709a1d45953e6b2cd020b131dbe0ee32ce63dc931fc8c16b1059a8494",
+    "sequence": 25,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "方大同 - 回留",
+    "originalName": "方大同 - 回留.mp3",
+    "filename": "025-fang-da-tong-hui-liu.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.045,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/025-fang-da-tong-hui-liu.mp3"
+    },
+    "path": "music/025-fang-da-tong-hui-liu.mp3",
+    "cdnPath": "/audio/025-fang-da-tong-hui-liu.mp3",
+    "url": null,
+    "createdAt": "2026-08-21T03:41:34.131Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
