@@ -786,7 +786,7 @@
     "operationId": "audio:ffd511f4d44b2a2747b1108e3d365064faaded6bbbe3cecb27eef69e994b0cf4",
     "sha256": "ffd511f4d44b2a2747b1108e3d365064faaded6bbbe3cecb27eef69e994b0cf4",
     "sequence": 27,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - Lights Up",
