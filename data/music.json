@@ -1432,7 +1432,7 @@
     "operationId": "audio:2ba9e5cd4f4570bd7f4ca968b6f9396d098684a2fcac857e0a20cbca0309be30",
     "sha256": "2ba9e5cd4f4570bd7f4ca968b6f9396d098684a2fcac857e0a20cbca0309be30",
     "sequence": 46,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Like You",
