@@ -1194,7 +1194,7 @@
     "operationId": "audio:9a582313fb671453300cbfbb1cf4946769e16b7563912473e05ba06014ab2e15",
     "sha256": "9a582313fb671453300cbfbb1cf4946769e16b7563912473e05ba06014ab2e15",
     "sequence": 39,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "希有恒温",
