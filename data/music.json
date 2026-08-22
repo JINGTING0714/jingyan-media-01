@@ -1188,5 +1188,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000039",
+    "operationId": "audio:9a582313fb671453300cbfbb1cf4946769e16b7563912473e05ba06014ab2e15",
+    "sha256": "9a582313fb671453300cbfbb1cf4946769e16b7563912473e05ba06014ab2e15",
+    "sequence": 39,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "希有恒温",
+    "originalName": "希有恒温.mp3",
+    "filename": "039-xi-you-heng-wen.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 18.519,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/039-xi-you-heng-wen.mp3"
+    },
+    "path": "music/039-xi-you-heng-wen.mp3",
+    "cdnPath": "/audio/039-xi-you-heng-wen.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:58:44.465Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
