@@ -2044,7 +2044,7 @@
     "operationId": "audio:a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
     "sha256": "a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
     "sequence": 64,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Up In The Clouds",
