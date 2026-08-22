@@ -1222,5 +1222,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000040",
+    "operationId": "audio:5c864c29aa1dd2680c6b2211d26603564a72bbdd16969c73ac21faad40c06f16",
+    "sha256": "5c864c29aa1dd2680c6b2211d26603564a72bbdd16969c73ac21faad40c06f16",
+    "sequence": 40,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "恒温-《巷弄里的那家书店》华视偶像剧插曲",
+    "originalName": "恒温-《巷弄里的那家书店》华视偶像剧插曲.mp3",
+    "filename": "040-heng-wen-u300a-xiang-nong-li-de-na-jia-shu-dian-u300b-hua-shi-ou-xiang-ju-cha-qu.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.945,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/040-heng-wen-u300a-xiang-nong-li-de-na-jia-shu-dian-u300b-hua-shi-ou-xiang-ju-cha-qu.mp3"
+    },
+    "path": "music/040-heng-wen-u300a-xiang-nong-li-de-na-jia-shu-dian-u300b-hua-shi-ou-xiang-ju-cha-qu.mp3",
+    "cdnPath": "/audio/040-heng-wen-u300a-xiang-nong-li-de-na-jia-shu-dian-u300b-hua-shi-ou-xiang-ju-cha-qu.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:58:59.988Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
