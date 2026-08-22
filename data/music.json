@@ -2004,5 +2004,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000063",
+    "operationId": "audio:e279f2ebbfe17ffae43ef40d6143d7146b15436eb4af406139d40ff6cb73fe06",
+    "sha256": "e279f2ebbfe17ffae43ef40d6143d7146b15436eb4af406139d40ff6cb73fe06",
+    "sequence": 63,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Unique Design",
+    "originalName": "Unique Design.mp3",
+    "filename": "063-unique-design.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.715,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/063-unique-design.mp3"
+    },
+    "path": "music/063-unique-design.mp3",
+    "cdnPath": "/audio/063-unique-design.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:47:22.322Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
