@@ -1296,7 +1296,7 @@
     "operationId": "audio:d68c6d9a78752f897166b73e79382bc6842b9eca065ca7f367d898f644822a02",
     "sha256": "d68c6d9a78752f897166b73e79382bc6842b9eca065ca7f367d898f644822a02",
     "sequence": 42,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Girls",
