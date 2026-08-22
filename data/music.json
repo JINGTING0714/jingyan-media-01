@@ -1160,7 +1160,7 @@
     "operationId": "audio:7cb55fa6ec9679ddfe01ffe05ccd3c76056893c96a0c2cb5b9dfed423507982c",
     "sha256": "7cb55fa6ec9679ddfe01ffe05ccd3c76056893c96a0c2cb5b9dfed423507982c",
     "sequence": 38,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "不该 不该-《巷弄里的那间书店》华视偶像剧片头曲",
