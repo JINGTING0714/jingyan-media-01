@@ -984,5 +984,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000033",
+    "operationId": "audio:61d9b3aeb80b6abcca772ac5398292167563f48a6351bea88daf2fb877830157",
+    "sha256": "61d9b3aeb80b6abcca772ac5398292167563f48a6351bea88daf2fb877830157",
+    "sequence": 33,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "查无此曲",
+    "originalName": "查无此曲.mp3",
+    "filename": "033-cha-wu-ci-qu.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.1,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/033-cha-wu-ci-qu.mp3"
+    },
+    "path": "music/033-cha-wu-ci-qu.mp3",
+    "cdnPath": "/audio/033-cha-wu-ci-qu.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:53:25.212Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
