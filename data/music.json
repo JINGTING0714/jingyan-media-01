@@ -1126,7 +1126,7 @@
     "operationId": "audio:75e25c02af0930541e33b00fbe4870d83b5a493e49bc6cb884ac0298d1337afe",
     "sha256": "75e25c02af0930541e33b00fbe4870d83b5a493e49bc6cb884ac0298d1337afe",
     "sequence": 37,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "深夜电影",
