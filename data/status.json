@@ -3,15 +3,15 @@
   "repository": "JINGTING0714/jingyan-media-01",
   "id": "audio-01",
   "type": "audio",
-  "usedMB": 299.416,
+  "usedMB": 308.601,
   "targetMB": 700,
   "overflowToleranceMB": 10,
   "status": "active",
   "state": "active",
   "layout": "legacy-flat",
   "bucketSize": null,
-  "updatedAt": "2026-08-22T04:54:17.348Z",
-  "fileCount": 33,
+  "updatedAt": "2026-08-22T04:54:32.836Z",
+  "fileCount": 34,
   "firstMediaId": "music-000004",
-  "lastMediaId": "music-000036"
+  "lastMediaId": "music-000037"
 }
