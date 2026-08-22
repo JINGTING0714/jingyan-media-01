@@ -1970,5 +1970,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000062",
+    "operationId": "audio:734ffd549e042fd3e02926aae005fa91314431a774d91ab90e294a2e56bf6991",
+    "sha256": "734ffd549e042fd3e02926aae005fa91314431a774d91ab90e294a2e56bf6991",
+    "sequence": 62,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "The Dragon Song (feat. ØZI)",
+    "originalName": "The Dragon Song (feat. ØZI).mp3",
+    "filename": "062-the-dragon-song-feat-ozi.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 11.984,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/062-the-dragon-song-feat-ozi.mp3"
+    },
+    "path": "music/062-the-dragon-song-feat-ozi.mp3",
+    "cdnPath": "/audio/062-the-dragon-song-feat-ozi.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:47:07.149Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
