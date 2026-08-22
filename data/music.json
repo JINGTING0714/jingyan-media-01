@@ -1364,9 +1364,9 @@
     "operationId": "audio:d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
     "sha256": "d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
     "sequence": 44,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Yes, I Do",
     "originalName": "Yes, I Do.mp3",
     "filename": "044-yes-i-do.mp3",
@@ -1386,11 +1386,11 @@
     },
     "path": "music/044-yes-i-do.mp3",
     "cdnPath": "/audio/044-yes-i-do.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/044-yes-i-do.mp3",
     "createdAt": "2026-08-22T04:59:51.067Z",
     "sourceCompletedAt": "2026-08-22T04:59:55.014Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T05:00:45.443Z",
+    "uploadedAt": "2026-08-22T05:00:45.443Z",
     "uploader": null
   }
 ]
