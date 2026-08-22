@@ -2038,5 +2038,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000064",
+    "operationId": "audio:a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
+    "sha256": "a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
+    "sequence": 64,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Up In The Clouds",
+    "originalName": "Up In The Clouds.mp3",
+    "filename": "064-up-in-the-clouds.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 16.413,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/064-up-in-the-clouds.mp3"
+    },
+    "path": "music/064-up-in-the-clouds.mp3",
+    "cdnPath": "/audio/064-up-in-the-clouds.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:47:36.285Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
