@@ -1086,5 +1086,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000036",
+    "operationId": "audio:5ba7bf5680273ac7026331ba3c37ef21fb82948b0519c7b424385dda5f9716ed",
+    "sha256": "5ba7bf5680273ac7026331ba3c37ef21fb82948b0519c7b424385dda5f9716ed",
+    "sequence": 36,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Give It to Me",
+    "originalName": "Give It to Me.mp3",
+    "filename": "036-give-it-to-me.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 6.622,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/036-give-it-to-me.mp3"
+    },
+    "path": "music/036-give-it-to-me.mp3",
+    "cdnPath": "/audio/036-give-it-to-me.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:54:10.989Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
