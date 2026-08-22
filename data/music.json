@@ -1018,5 +1018,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000034",
+    "operationId": "audio:da3a650590fd276378385111533cebeab78be2b9537d6bda642143795f77cc7a",
+    "sha256": "da3a650590fd276378385111533cebeab78be2b9537d6bda642143795f77cc7a",
+    "sequence": 34,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "啦哩邋遢",
+    "originalName": "啦哩邋遢.mp3",
+    "filename": "034-la-li-la-ta.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 6.431,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/034-la-li-la-ta.mp3"
+    },
+    "path": "music/034-la-li-la-ta.mp3",
+    "cdnPath": "/audio/034-la-li-la-ta.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:53:41.403Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
