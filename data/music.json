@@ -1738,7 +1738,7 @@
     "operationId": "audio:46faafcc4f366f8e1f0bd8e60f0c297f1365c81cdbbab12324b770fba9e38c42",
     "sha256": "46faafcc4f366f8e1f0bd8e60f0c297f1365c81cdbbab12324b770fba9e38c42",
     "sequence": 55,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "不介意",
