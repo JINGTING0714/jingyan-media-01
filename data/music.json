@@ -1364,7 +1364,7 @@
     "operationId": "audio:d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
     "sha256": "d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
     "sequence": 44,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Yes, I Do",
