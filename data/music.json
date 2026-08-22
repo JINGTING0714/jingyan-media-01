@@ -1256,5 +1256,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000041",
+    "operationId": "audio:b7d446d578b807a629fe0c07524627a91e6996c9f350c948e4839e68ace77a30",
+    "sha256": "b7d446d578b807a629fe0c07524627a91e6996c9f350c948e4839e68ace77a30",
+    "sequence": 41,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "疯起来",
+    "originalName": "疯起来.mp3",
+    "filename": "041-feng-qi-lai.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 6.916,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/041-feng-qi-lai.mp3"
+    },
+    "path": "music/041-feng-qi-lai.mp3",
+    "cdnPath": "/audio/041-feng-qi-lai.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:59:13.204Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
