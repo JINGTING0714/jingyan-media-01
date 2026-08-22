@@ -1126,9 +1126,9 @@
     "operationId": "audio:75e25c02af0930541e33b00fbe4870d83b5a493e49bc6cb884ac0298d1337afe",
     "sha256": "75e25c02af0930541e33b00fbe4870d83b5a493e49bc6cb884ac0298d1337afe",
     "sequence": 37,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "深夜电影",
     "originalName": "深夜电影.mp3",
     "filename": "037-shen-ye-dian-ying.mp3",
@@ -1148,11 +1148,11 @@
     },
     "path": "music/037-shen-ye-dian-ying.mp3",
     "cdnPath": "/audio/037-shen-ye-dian-ying.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/037-shen-ye-dian-ying.mp3",
     "createdAt": "2026-08-22T04:54:24.902Z",
     "sourceCompletedAt": "2026-08-22T04:54:30.489Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T04:55:39.171Z",
+    "uploadedAt": "2026-08-22T04:55:39.171Z",
     "uploader": null
   }
 ]
