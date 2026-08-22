@@ -888,7 +888,7 @@
     "operationId": "audio:23c445c62766458941d173103e842f43d0cbceb1a66526f0af810d4ada39a72d",
     "sha256": "23c445c62766458941d173103e842f43d0cbceb1a66526f0af810d4ada39a72d",
     "sequence": 30,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "不要让我后悔",
