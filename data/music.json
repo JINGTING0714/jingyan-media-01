@@ -2044,9 +2044,9 @@
     "operationId": "audio:a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
     "sha256": "a8bf16e589bd4890fd7a450f7d8992241283920883d188a73ca9915692c88366",
     "sequence": 64,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Up In The Clouds",
     "originalName": "Up In The Clouds.mp3",
     "filename": "064-up-in-the-clouds.mp3",
@@ -2066,11 +2066,11 @@
     },
     "path": "music/064-up-in-the-clouds.mp3",
     "cdnPath": "/audio/064-up-in-the-clouds.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/064-up-in-the-clouds.mp3",
     "createdAt": "2026-08-22T05:47:36.285Z",
     "sourceCompletedAt": "2026-08-22T05:47:41.819Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T05:48:50.273Z",
+    "uploadedAt": "2026-08-22T05:48:50.273Z",
     "uploader": null
   }
 ]
