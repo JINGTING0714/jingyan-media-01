@@ -1976,7 +1976,7 @@
     "operationId": "audio:734ffd549e042fd3e02926aae005fa91314431a774d91ab90e294a2e56bf6991",
     "sha256": "734ffd549e042fd3e02926aae005fa91314431a774d91ab90e294a2e56bf6991",
     "sequence": 62,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "The Dragon Song (feat. ØZI)",
