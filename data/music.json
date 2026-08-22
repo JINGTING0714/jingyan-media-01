@@ -1772,7 +1772,7 @@
     "operationId": "audio:55d424ab524c5d9a45d83b0bb926697e1219c97776b736f59cd1c3835bc8dc18",
     "sha256": "55d424ab524c5d9a45d83b0bb926697e1219c97776b736f59cd1c3835bc8dc18",
     "sequence": 56,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "拉面公子",
