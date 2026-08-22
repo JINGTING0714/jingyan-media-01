@@ -1766,5 +1766,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000056",
+    "operationId": "audio:55d424ab524c5d9a45d83b0bb926697e1219c97776b736f59cd1c3835bc8dc18",
+    "sha256": "55d424ab524c5d9a45d83b0bb926697e1219c97776b736f59cd1c3835bc8dc18",
+    "sequence": 56,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "拉面公子",
+    "originalName": "拉面公子.mp3",
+    "filename": "056-la-mian-gong-zi.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 11.251,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/056-la-mian-gong-zi.mp3"
+    },
+    "path": "music/056-la-mian-gong-zi.mp3",
+    "cdnPath": "/audio/056-la-mian-gong-zi.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:45:38.617Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
