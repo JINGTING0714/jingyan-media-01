@@ -922,7 +922,7 @@
     "operationId": "audio:89412daa3b298dae406fdc4f4a850fb2072abad3e7f870263f7fe59f0eb1a380",
     "sha256": "89412daa3b298dae406fdc4f4a850fb2072abad3e7f870263f7fe59f0eb1a380",
     "sequence": 31,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "那我先",
