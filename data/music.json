@@ -1466,7 +1466,7 @@
     "operationId": "audio:b89899719dfefdb2acd7ffc819c38e674c21d4a2b16458629af6640300746185",
     "sha256": "b89899719dfefdb2acd7ffc819c38e674c21d4a2b16458629af6640300746185",
     "sequence": 47,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Might Be Wrong",
