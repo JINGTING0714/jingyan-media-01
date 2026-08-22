@@ -1636,7 +1636,7 @@
     "operationId": "audio:a1db6fc0472eb6f03c883c817220fe84175f7d74ea2be8e72e499d1c5444d312",
     "sha256": "a1db6fc0472eb6f03c883c817220fe84175f7d74ea2be8e72e499d1c5444d312",
     "sequence": 52,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "White Noise ft. 蛋堡 Soft Lipa",
