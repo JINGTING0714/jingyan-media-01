@@ -1704,7 +1704,7 @@
     "operationId": "audio:ba41066a987e4188af2d6473d1973de2724853cdbb9b1ca78930fd9e030879bf",
     "sha256": "ba41066a987e4188af2d6473d1973de2724853cdbb9b1ca78930fd9e030879bf",
     "sequence": 54,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "蹦蹦",
