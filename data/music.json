@@ -1228,7 +1228,7 @@
     "operationId": "audio:5c864c29aa1dd2680c6b2211d26603564a72bbdd16969c73ac21faad40c06f16",
     "sha256": "5c864c29aa1dd2680c6b2211d26603564a72bbdd16969c73ac21faad40c06f16",
     "sequence": 40,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "恒温-《巷弄里的那家书店》华视偶像剧插曲",
