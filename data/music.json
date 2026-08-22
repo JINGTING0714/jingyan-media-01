@@ -1942,7 +1942,7 @@
     "operationId": "audio:ebbe32ee7d51c6e0a35101002426fc313dd19df5d6444279cd66d8d2bf585b5e",
     "sha256": "ebbe32ee7d51c6e0a35101002426fc313dd19df5d6444279cd66d8d2bf585b5e",
     "sequence": 61,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Pain Hasn't Hit Me",
