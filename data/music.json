@@ -1262,7 +1262,7 @@
     "operationId": "audio:b7d446d578b807a629fe0c07524627a91e6996c9f350c948e4839e68ace77a30",
     "sha256": "b7d446d578b807a629fe0c07524627a91e6996c9f350c948e4839e68ace77a30",
     "sequence": 41,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "疯起来",
