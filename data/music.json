@@ -1630,5 +1630,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000052",
+    "operationId": "audio:a1db6fc0472eb6f03c883c817220fe84175f7d74ea2be8e72e499d1c5444d312",
+    "sha256": "a1db6fc0472eb6f03c883c817220fe84175f7d74ea2be8e72e499d1c5444d312",
+    "sequence": 52,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "White Noise ft. 蛋堡 Soft Lipa",
+    "originalName": "White Noise ft. 蛋堡 Soft Lipa.mp3",
+    "filename": "052-white-noise-ft-dan-bao-soft-lipa.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.256,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/052-white-noise-ft-dan-bao-soft-lipa.mp3"
+    },
+    "path": "music/052-white-noise-ft-dan-bao-soft-lipa.mp3",
+    "cdnPath": "/audio/052-white-noise-ft-dan-bao-soft-lipa.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:04:52.069Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
