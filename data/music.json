@@ -1398,7 +1398,7 @@
     "operationId": "audio:f9755c74f5dbbb4030894087fe5c52222e73f08bedd52cdbef24fff98ab460bc",
     "sha256": "f9755c74f5dbbb4030894087fe5c52222e73f08bedd52cdbef24fff98ab460bc",
     "sequence": 45,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Imagine",
