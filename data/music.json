@@ -1052,5 +1052,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000035",
+    "operationId": "audio:2266f7b29f60406d7cfe9fb787755c1ae80b7676678e78eef004726098fc6b85",
+    "sha256": "2266f7b29f60406d7cfe9fb787755c1ae80b7676678e78eef004726098fc6b85",
+    "sequence": 35,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "潜伏期",
+    "originalName": "潜伏期.mp3",
+    "filename": "035-qian-fu-qi.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.793,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/035-qian-fu-qi.mp3"
+    },
+    "path": "music/035-qian-fu-qi.mp3",
+    "cdnPath": "/audio/035-qian-fu-qi.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:53:55.351Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
