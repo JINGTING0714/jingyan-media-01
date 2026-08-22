@@ -1358,5 +1358,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000044",
+    "operationId": "audio:d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
+    "sha256": "d0ee5ad9ae640065c6d84307df0264b54c4ab1a5a5f7d102c50efb4f9563c710",
+    "sequence": 44,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Yes, I Do",
+    "originalName": "Yes, I Do.mp3",
+    "filename": "044-yes-i-do.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.622,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/044-yes-i-do.mp3"
+    },
+    "path": "music/044-yes-i-do.mp3",
+    "cdnPath": "/audio/044-yes-i-do.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:59:51.067Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
