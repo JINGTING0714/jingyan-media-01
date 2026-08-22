@@ -1330,7 +1330,7 @@
     "operationId": "audio:f6759ce1b8b53f5b94c425f76f5c526669cc0091ce9f76af21aabf69fc6214d0",
     "sha256": "f6759ce1b8b53f5b94c425f76f5c526669cc0091ce9f76af21aabf69fc6214d0",
     "sequence": 43,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "跟你住-《女人30-情定水舞间》三立偶像剧插曲",
