@@ -1806,7 +1806,7 @@
     "operationId": "audio:61b4568b5db8305e948cb4da6e3c60c1722bc4d8afb65d585441f2d291588145",
     "sha256": "61b4568b5db8305e948cb4da6e3c60c1722bc4d8afb65d585441f2d291588145",
     "sequence": 57,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "还不想睡",
