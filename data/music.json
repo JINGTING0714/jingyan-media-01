@@ -814,5 +814,39 @@
     "cdnPublishedAt": "2026-08-21T03:44:23.140Z",
     "uploadedAt": "2026-08-21T03:44:23.140Z",
     "uploader": null
+  },
+  {
+    "id": "music-000028",
+    "operationId": "audio:f538a7dd53ceb143b4121b9c99afc1dde38dbd0af1028be82717942b613a6a2e",
+    "sha256": "f538a7dd53ceb143b4121b9c99afc1dde38dbd0af1028be82717942b613a6a2e",
+    "sequence": 28,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "一分之二",
+    "originalName": "一分之二.mp3",
+    "filename": "028-yi-fen-zhi-er.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.79,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/028-yi-fen-zhi-er.mp3"
+    },
+    "path": "music/028-yi-fen-zhi-er.mp3",
+    "cdnPath": "/audio/028-yi-fen-zhi-er.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:52:08.084Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
