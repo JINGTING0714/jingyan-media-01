@@ -882,5 +882,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000030",
+    "operationId": "audio:23c445c62766458941d173103e842f43d0cbceb1a66526f0af810d4ada39a72d",
+    "sha256": "23c445c62766458941d173103e842f43d0cbceb1a66526f0af810d4ada39a72d",
+    "sequence": 30,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "不要让我后悔",
+    "originalName": "不要让我后悔.mp3",
+    "filename": "030-bu-yao-rang-wo-hou-hui.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.27,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/030-bu-yao-rang-wo-hou-hui.mp3"
+    },
+    "path": "music/030-bu-yao-rang-wo-hou-hui.mp3",
+    "cdnPath": "/audio/030-bu-yao-rang-wo-hou-hui.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:52:40.103Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
