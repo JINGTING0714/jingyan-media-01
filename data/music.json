@@ -1568,7 +1568,7 @@
     "operationId": "audio:a0e2791ef4e74996c422031db62f7b9091d3f6cca22d84f2a726b4dedff99acf",
     "sha256": "a0e2791ef4e74996c422031db62f7b9091d3f6cca22d84f2a726b4dedff99acf",
     "sequence": 50,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Really Mean It",
