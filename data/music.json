@@ -1908,7 +1908,7 @@
     "operationId": "audio:461fdff61aff9bc5674058973bf175fee60a971393fb86cd37e3090ea2888151",
     "sha256": "461fdff61aff9bc5674058973bf175fee60a971393fb86cd37e3090ea2888151",
     "sequence": 60,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "PRINCESS",
