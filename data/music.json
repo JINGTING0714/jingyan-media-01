@@ -1290,5 +1290,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000042",
+    "operationId": "audio:d68c6d9a78752f897166b73e79382bc6842b9eca065ca7f367d898f644822a02",
+    "sha256": "d68c6d9a78752f897166b73e79382bc6842b9eca065ca7f367d898f644822a02",
+    "sequence": 42,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Girls",
+    "originalName": "Girls.mp3",
+    "filename": "042-girls.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.387,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/042-girls.mp3"
+    },
+    "path": "music/042-girls.mp3",
+    "cdnPath": "/audio/042-girls.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:59:25.191Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
