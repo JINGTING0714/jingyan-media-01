@@ -820,7 +820,7 @@
     "operationId": "audio:f538a7dd53ceb143b4121b9c99afc1dde38dbd0af1028be82717942b613a6a2e",
     "sha256": "f538a7dd53ceb143b4121b9c99afc1dde38dbd0af1028be82717942b613a6a2e",
     "sequence": 28,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "一分之二",
