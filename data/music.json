@@ -1154,5 +1154,39 @@
     "cdnPublishedAt": "2026-08-22T04:55:39.171Z",
     "uploadedAt": "2026-08-22T04:55:39.171Z",
     "uploader": null
+  },
+  {
+    "id": "music-000038",
+    "operationId": "audio:7cb55fa6ec9679ddfe01ffe05ccd3c76056893c96a0c2cb5b9dfed423507982c",
+    "sha256": "7cb55fa6ec9679ddfe01ffe05ccd3c76056893c96a0c2cb5b9dfed423507982c",
+    "sequence": 38,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "不该 不该-《巷弄里的那间书店》华视偶像剧片头曲",
+    "originalName": "不该 不该-《巷弄里的那间书店》华视偶像剧片头曲.mp3",
+    "filename": "038-bu-gai-bu-gai-u300a-xiang-nong-li-de-na-jian-shu-dian-u300b-hua-shi-ou-xiang-ju-pian-tou-qu.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.3,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/038-bu-gai-bu-gai-u300a-xiang-nong-li-de-na-jian-shu-dian-u300b-hua-shi-ou-xiang-ju-pian-tou-qu.mp3"
+    },
+    "path": "music/038-bu-gai-bu-gai-u300a-xiang-nong-li-de-na-jian-shu-dian-u300b-hua-shi-ou-xiang-ju-pian-tou-qu.mp3",
+    "cdnPath": "/audio/038-bu-gai-bu-gai-u300a-xiang-nong-li-de-na-jian-shu-dian-u300b-hua-shi-ou-xiang-ju-pian-tou-qu.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:58:31.351Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
