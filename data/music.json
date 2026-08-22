@@ -1602,7 +1602,7 @@
     "operationId": "audio:ce803c9d18146b7b4cae185bd735f79653f2de8fb8db97b8a3eae114387a533d",
     "sha256": "ce803c9d18146b7b4cae185bd735f79653f2de8fb8db97b8a3eae114387a533d",
     "sequence": 51,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Steak and Lobster",
