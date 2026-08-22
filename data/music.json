@@ -990,7 +990,7 @@
     "operationId": "audio:61d9b3aeb80b6abcca772ac5398292167563f48a6351bea88daf2fb877830157",
     "sha256": "61d9b3aeb80b6abcca772ac5398292167563f48a6351bea88daf2fb877830157",
     "sequence": 33,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "查无此曲",
