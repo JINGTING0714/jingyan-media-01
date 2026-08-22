@@ -1460,5 +1460,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000047",
+    "operationId": "audio:b89899719dfefdb2acd7ffc819c38e674c21d4a2b16458629af6640300746185",
+    "sha256": "b89899719dfefdb2acd7ffc819c38e674c21d4a2b16458629af6640300746185",
+    "sequence": 47,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Might Be Wrong",
+    "originalName": "Might Be Wrong.mp3",
+    "filename": "047-might-be-wrong.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.292,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/047-might-be-wrong.mp3"
+    },
+    "path": "music/047-might-be-wrong.mp3",
+    "cdnPath": "/audio/047-might-be-wrong.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:03:36.834Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
