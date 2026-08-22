@@ -1024,7 +1024,7 @@
     "operationId": "audio:da3a650590fd276378385111533cebeab78be2b9537d6bda642143795f77cc7a",
     "sha256": "da3a650590fd276378385111533cebeab78be2b9537d6bda642143795f77cc7a",
     "sequence": 34,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "啦哩邋遢",
