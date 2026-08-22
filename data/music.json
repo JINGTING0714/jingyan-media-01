@@ -916,5 +916,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000031",
+    "operationId": "audio:89412daa3b298dae406fdc4f4a850fb2072abad3e7f870263f7fe59f0eb1a380",
+    "sha256": "89412daa3b298dae406fdc4f4a850fb2072abad3e7f870263f7fe59f0eb1a380",
+    "sequence": 31,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "那我先",
+    "originalName": "那我先.mp3",
+    "filename": "031-na-wo-xian.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.505,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/031-na-wo-xian.mp3"
+    },
+    "path": "music/031-na-wo-xian.mp3",
+    "cdnPath": "/audio/031-na-wo-xian.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T04:52:55.451Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
