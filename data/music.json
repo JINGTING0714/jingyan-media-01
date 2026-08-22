@@ -1704,9 +1704,9 @@
     "operationId": "audio:ba41066a987e4188af2d6473d1973de2724853cdbb9b1ca78930fd9e030879bf",
     "sha256": "ba41066a987e4188af2d6473d1973de2724853cdbb9b1ca78930fd9e030879bf",
     "sequence": 54,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "蹦蹦",
     "originalName": "蹦蹦.flac",
     "filename": "054-beng-beng.flac",
@@ -1726,11 +1726,11 @@
     },
     "path": "music/054-beng-beng.flac",
     "cdnPath": "/audio/054-beng-beng.flac",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/054-beng-beng.flac",
     "createdAt": "2026-08-22T05:38:13.794Z",
     "sourceCompletedAt": "2026-08-22T05:38:19.805Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T05:38:34.045Z",
+    "uploadedAt": "2026-08-22T05:38:34.045Z",
     "uploader": null
   }
 ]
