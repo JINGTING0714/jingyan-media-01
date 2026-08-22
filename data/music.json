@@ -1670,7 +1670,7 @@
     "operationId": "audio:28cc8ae5f33a86c394075a4c5ad1704aaadb17126dd39c19d31681a231129491",
     "sha256": "28cc8ae5f33a86c394075a4c5ad1704aaadb17126dd39c19d31681a231129491",
     "sequence": 53,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "yoyoyoyo",
