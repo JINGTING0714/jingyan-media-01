@@ -1534,7 +1534,7 @@
     "operationId": "audio:bc885173bc5087eb51d3aaa510b124c7761a116de32a59312d6fd6e92c99caae",
     "sha256": "bc885173bc5087eb51d3aaa510b124c7761a116de32a59312d6fd6e92c99caae",
     "sequence": 49,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Painkiller ft. Karencici",
