@@ -1874,7 +1874,7 @@
     "operationId": "audio:7a4d30e292c7a63965c69448d2b6875794e722286905abadd7a48efdb7dcc03d",
     "sha256": "7a4d30e292c7a63965c69448d2b6875794e722286905abadd7a48efdb7dcc03d",
     "sequence": 59,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Natural Ability",
