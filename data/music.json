@@ -1834,5 +1834,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000058",
+    "operationId": "audio:ab63fc4561d2ef58d7c7cc63eb597b7bdd3acbaa383fa87677b73b453e1abe5e",
+    "sha256": "ab63fc4561d2ef58d7c7cc63eb597b7bdd3acbaa383fa87677b73b453e1abe5e",
+    "sequence": 58,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Classy",
+    "originalName": "Classy.mp3",
+    "filename": "058-classy.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 8.629,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/058-classy.mp3"
+    },
+    "path": "music/058-classy.mp3",
+    "cdnPath": "/audio/058-classy.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:46:08.354Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
