@@ -1670,9 +1670,9 @@
     "operationId": "audio:28cc8ae5f33a86c394075a4c5ad1704aaadb17126dd39c19d31681a231129491",
     "sha256": "28cc8ae5f33a86c394075a4c5ad1704aaadb17126dd39c19d31681a231129491",
     "sequence": 53,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "yoyoyoyo",
     "originalName": "yoyoyoyo.mp3",
     "filename": "053-yoyoyoyo.mp3",
@@ -1692,11 +1692,11 @@
     },
     "path": "music/053-yoyoyoyo.mp3",
     "cdnPath": "/audio/053-yoyoyoyo.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/053-yoyoyoyo.mp3",
     "createdAt": "2026-08-22T05:05:08.533Z",
     "sourceCompletedAt": "2026-08-22T05:05:14.683Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T05:06:17.973Z",
+    "uploadedAt": "2026-08-22T05:06:17.973Z",
     "uploader": null
   }
 ]
