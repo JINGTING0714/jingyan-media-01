@@ -1426,5 +1426,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000046",
+    "operationId": "audio:2ba9e5cd4f4570bd7f4ca968b6f9396d098684a2fcac857e0a20cbca0309be30",
+    "sha256": "2ba9e5cd4f4570bd7f4ca968b6f9396d098684a2fcac857e0a20cbca0309be30",
+    "sequence": 46,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Like You",
+    "originalName": "Like You.mp3",
+    "filename": "046-like-you.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.003,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/046-like-you.mp3"
+    },
+    "path": "music/046-like-you.mp3",
+    "cdnPath": "/audio/046-like-you.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:03:21.487Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
