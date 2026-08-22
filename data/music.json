@@ -1596,5 +1596,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000051",
+    "operationId": "audio:ce803c9d18146b7b4cae185bd735f79653f2de8fb8db97b8a3eae114387a533d",
+    "sha256": "ce803c9d18146b7b4cae185bd735f79653f2de8fb8db97b8a3eae114387a533d",
+    "sequence": 51,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "Steak and Lobster",
+    "originalName": "Steak and Lobster.mp3",
+    "filename": "051-steak-and-lobster.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 9.24,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/051-steak-and-lobster.mp3"
+    },
+    "path": "music/051-steak-and-lobster.mp3",
+    "cdnPath": "/audio/051-steak-and-lobster.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:04:37.879Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
