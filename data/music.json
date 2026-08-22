@@ -1494,5 +1494,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000048",
+    "operationId": "audio:d1280b98c1aa33dad66ef4a560682a031793c1a34367848c1fc2dd960a718027",
+    "sha256": "d1280b98c1aa33dad66ef4a560682a031793c1a34367848c1fc2dd960a718027",
+    "sequence": 48,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "My Shit",
+    "originalName": "My Shit.mp3",
+    "filename": "048-my-shit.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 7.17,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/048-my-shit.mp3"
+    },
+    "path": "music/048-my-shit.mp3",
+    "cdnPath": "/audio/048-my-shit.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:03:51.790Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
