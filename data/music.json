@@ -1800,5 +1800,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "music-000057",
+    "operationId": "audio:61b4568b5db8305e948cb4da6e3c60c1722bc4d8afb65d585441f2d291588145",
+    "sha256": "61b4568b5db8305e948cb4da6e3c60c1722bc4d8afb65d585441f2d291588145",
+    "sequence": 57,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "还不想睡",
+    "originalName": "还不想睡.mp3",
+    "filename": "057-hai-bu-xiang-shui.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 7.36,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/057-hai-bu-xiang-shui.mp3"
+    },
+    "path": "music/057-hai-bu-xiang-shui.mp3",
+    "cdnPath": "/audio/057-hai-bu-xiang-shui.mp3",
+    "url": null,
+    "createdAt": "2026-08-22T05:45:53.640Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
