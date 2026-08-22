@@ -1840,7 +1840,7 @@
     "operationId": "audio:ab63fc4561d2ef58d7c7cc63eb597b7bdd3acbaa383fa87677b73b453e1abe5e",
     "sha256": "ab63fc4561d2ef58d7c7cc63eb597b7bdd3acbaa383fa87677b73b453e1abe5e",
     "sequence": 58,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Classy",
