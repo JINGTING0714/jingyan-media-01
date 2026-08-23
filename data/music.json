@@ -2214,7 +2214,7 @@
     "operationId": "audio:b8de93ebc93ef4fc7ba479a9944259d4268ee0b5b300a008b291339b26272f83",
     "sha256": "b8de93ebc93ef4fc7ba479a9944259d4268ee0b5b300a008b291339b26272f83",
     "sequence": 69,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "老婆最大-崔子格&老猫",
