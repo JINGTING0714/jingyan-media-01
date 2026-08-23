@@ -2180,9 +2180,9 @@
     "operationId": "audio:ecb8c9b13ebae71f5245f7eb4aa426bedc83b259b8ca28fde72faee1eec607c1",
     "sha256": "ecb8c9b13ebae71f5245f7eb4aa426bedc83b259b8ca28fde72faee1eec607c1",
     "sequence": 68,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Tell Me (What Is Love)-俞永镇&D.O.",
     "originalName": "Tell Me (What Is Love)-俞永镇&D.O..mp3",
     "filename": "068-tell-me-what-is-love-yu-yong-zhen-and-d-o.mp3",
@@ -2202,11 +2202,11 @@
     },
     "path": "music/068-tell-me-what-is-love-yu-yong-zhen-and-d-o.mp3",
     "cdnPath": "/audio/068-tell-me-what-is-love-yu-yong-zhen-and-d-o.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/068-tell-me-what-is-love-yu-yong-zhen-and-d-o.mp3",
     "createdAt": "2026-08-23T01:51:38.364Z",
     "sourceCompletedAt": "2026-08-23T01:51:43.326Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-23T01:51:57.076Z",
+    "uploadedAt": "2026-08-23T01:51:57.076Z",
     "uploader": null
   }
 ]
