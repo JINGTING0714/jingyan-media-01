@@ -2146,9 +2146,9 @@
     "operationId": "audio:731cb408d161903ef692ea7235c3b520028edc5963c9bad3a89fa52d7ce726e5",
     "sha256": "731cb408d161903ef692ea7235c3b520028edc5963c9bad3a89fa52d7ce726e5",
     "sequence": 67,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Didn't Know-Digital Farm Animals&Yasmin",
     "originalName": "Didn't Know-Digital Farm Animals&Yasmin.mp3",
     "filename": "067-didn-t-know-digital-farm-animals-and-yasmin.mp3",
@@ -2168,11 +2168,11 @@
     },
     "path": "music/067-didn-t-know-digital-farm-animals-and-yasmin.mp3",
     "cdnPath": "/audio/067-didn-t-know-digital-farm-animals-and-yasmin.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/067-didn-t-know-digital-farm-animals-and-yasmin.mp3",
     "createdAt": "2026-08-23T01:50:53.092Z",
     "sourceCompletedAt": "2026-08-23T01:50:58.047Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-23T01:51:10.267Z",
+    "uploadedAt": "2026-08-23T01:51:10.267Z",
     "uploader": null
   }
 ]
