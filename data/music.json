@@ -2214,9 +2214,9 @@
     "operationId": "audio:b8de93ebc93ef4fc7ba479a9944259d4268ee0b5b300a008b291339b26272f83",
     "sha256": "b8de93ebc93ef4fc7ba479a9944259d4268ee0b5b300a008b291339b26272f83",
     "sequence": 69,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "老婆最大-崔子格&老猫",
     "originalName": "老婆最大-崔子格&老猫.mp3",
     "filename": "069-lao-po-zui-da-cui-zi-ge-and-lao-mao.mp3",
@@ -2236,11 +2236,11 @@
     },
     "path": "music/069-lao-po-zui-da-cui-zi-ge-and-lao-mao.mp3",
     "cdnPath": "/audio/069-lao-po-zui-da-cui-zi-ge-and-lao-mao.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/069-lao-po-zui-da-cui-zi-ge-and-lao-mao.mp3",
     "createdAt": "2026-08-23T14:08:46.221Z",
     "sourceCompletedAt": "2026-08-23T14:08:49.665Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-23T14:09:02.138Z",
+    "uploadedAt": "2026-08-23T14:09:02.138Z",
     "uploader": null
   }
 ]
