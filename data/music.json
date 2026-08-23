@@ -2078,9 +2078,9 @@
     "operationId": "audio:c70da826849f70860da34d10dd5c42790cb51bec9493558aa48ea9f190f3e8b3",
     "sha256": "c70da826849f70860da34d10dd5c42790cb51bec9493558aa48ea9f190f3e8b3",
     "sequence": 65,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "내일에서 기다릴게 (I'll See You There Tomorrow)-TOMORROW X TOGETHER ",
     "originalName": "내일에서 기다릴게 (I'll See You There Tomorrow)-TOMORROW X TOGETHER .mp3",
     "filename": "065-naeireseo-gidarilge-i-ll-see-you-there-tomorrow-tomorrow-x-together.mp3",
@@ -2100,11 +2100,11 @@
     },
     "path": "music/065-naeireseo-gidarilge-i-ll-see-you-there-tomorrow-tomorrow-x-together.mp3",
     "cdnPath": "/audio/065-naeireseo-gidarilge-i-ll-see-you-there-tomorrow-tomorrow-x-together.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/065-naeireseo-gidarilge-i-ll-see-you-there-tomorrow-tomorrow-x-together.mp3",
     "createdAt": "2026-08-23T01:49:26.588Z",
     "sourceCompletedAt": "2026-08-23T01:49:30.117Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-23T01:49:46.457Z",
+    "uploadedAt": "2026-08-23T01:49:46.457Z",
     "uploader": null
   }
 ]
