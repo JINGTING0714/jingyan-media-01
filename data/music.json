@@ -2146,7 +2146,7 @@
     "operationId": "audio:731cb408d161903ef692ea7235c3b520028edc5963c9bad3a89fa52d7ce726e5",
     "sha256": "731cb408d161903ef692ea7235c3b520028edc5963c9bad3a89fa52d7ce726e5",
     "sequence": 67,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Didn't Know-Digital Farm Animals&Yasmin",
