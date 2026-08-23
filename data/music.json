@@ -2180,7 +2180,7 @@
     "operationId": "audio:ecb8c9b13ebae71f5245f7eb4aa426bedc83b259b8ca28fde72faee1eec607c1",
     "sha256": "ecb8c9b13ebae71f5245f7eb4aa426bedc83b259b8ca28fde72faee1eec607c1",
     "sequence": 68,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Tell Me (What Is Love)-俞永镇&D.O.",
