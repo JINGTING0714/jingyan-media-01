@@ -2248,9 +2248,9 @@
     "operationId": "audio:e621293fbc74530669b3619fd1ec9fb8c4e06a6ce019954cacf7b6772056da09",
     "sha256": "e621293fbc74530669b3619fd1ec9fb8c4e06a6ce019954cacf7b6772056da09",
     "sequence": 70,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "决定不想你",
     "originalName": "决定不想你.mp3",
     "filename": "070-jue-ding-bu-xiang-ni.mp3",
@@ -2270,11 +2270,11 @@
     },
     "path": "music/070-jue-ding-bu-xiang-ni.mp3",
     "cdnPath": "/audio/070-jue-ding-bu-xiang-ni.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/070-jue-ding-bu-xiang-ni.mp3",
     "createdAt": "2026-09-30T08:15:42.669Z",
     "sourceCompletedAt": "2026-09-30T08:15:49.324Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-09-30T08:16:01.777Z",
+    "uploadedAt": "2026-09-30T08:16:01.777Z",
     "uploader": null
   }
 ]
