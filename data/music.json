@@ -2282,7 +2282,7 @@
     "operationId": "audio:ca28c809556bf6fcea2d826690dd45b00ebfa16bb7bb3c7be1dde69b7a34a254",
     "sha256": "ca28c809556bf6fcea2d826690dd45b00ebfa16bb7bb3c7be1dde69b7a34a254",
     "sequence": 71,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Groovy Room&GEMINI (제미나이)&던&朴宰范 (Jay Park)&Vince - IG_396461",
