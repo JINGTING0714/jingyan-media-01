@@ -2282,9 +2282,9 @@
     "operationId": "audio:ca28c809556bf6fcea2d826690dd45b00ebfa16bb7bb3c7be1dde69b7a34a254",
     "sha256": "ca28c809556bf6fcea2d826690dd45b00ebfa16bb7bb3c7be1dde69b7a34a254",
     "sequence": 71,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "Groovy Room&GEMINI (제미나이)&던&朴宰范 (Jay Park)&Vince - IG_396461",
     "originalName": "Groovy Room&GEMINI (제미나이)&던&朴宰范 (Jay Park)&Vince - IG_396461.mp3",
     "filename": "071-groovy-room-and-gemini-jeminai-and-deon-and-pu-zai-fan-jay-park-and-vince-ig-396461.mp3",
@@ -2304,11 +2304,11 @@
     },
     "path": "music/071-groovy-room-and-gemini-jeminai-and-deon-and-pu-zai-fan-jay-park-and-vince-ig-396461.mp3",
     "cdnPath": "/audio/071-groovy-room-and-gemini-jeminai-and-deon-and-pu-zai-fan-jay-park-and-vince-ig-396461.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/071-groovy-room-and-gemini-jeminai-and-deon-and-pu-zai-fan-jay-park-and-vince-ig-396461.mp3",
     "createdAt": "2026-09-30T08:17:46.323Z",
     "sourceCompletedAt": "2026-09-30T08:17:51.156Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-09-30T08:18:02.946Z",
+    "uploadedAt": "2026-09-30T08:18:02.946Z",
     "uploader": null
   }
 ]
