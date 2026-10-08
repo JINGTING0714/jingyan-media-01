@@ -2384,7 +2384,7 @@
     "operationId": "audio:0b2206e977fe3d0fb1d89885f1087cbc97c469387415b96f301de7286168b0ad",
     "sha256": "0b2206e977fe3d0fb1d89885f1087cbc97c469387415b96f301de7286168b0ad",
     "sequence": 74,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "一格格 (DJ版)-DreamSky",
