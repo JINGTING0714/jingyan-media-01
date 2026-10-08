@@ -2480,5 +2480,39 @@
     "cdnPublishedAt": "2026-10-08T12:43:06.779Z",
     "uploadedAt": "2026-10-08T12:43:06.779Z",
     "uploader": null
+  },
+  {
+    "id": "music-000077",
+    "operationId": "audio:601dd01519cc3e1ff1f74fe41208e1bd498a29b0a9e258aa618f1237d022b5ad",
+    "sha256": "601dd01519cc3e1ff1f74fe41208e1bd498a29b0a9e258aa618f1237d022b5ad",
+    "sequence": 77,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "天若有情-黄丽玲",
+    "originalName": "天若有情-黄丽玲.mp3",
+    "filename": "077-tian-ruo-you-qing-huang-li-ling.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 3.927,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/077-tian-ruo-you-qing-huang-li-ling.mp3"
+    },
+    "path": "music/077-tian-ruo-you-qing-huang-li-ling.mp3",
+    "cdnPath": "/audio/077-tian-ruo-you-qing-huang-li-ling.mp3",
+    "url": null,
+    "createdAt": "2026-10-08T12:43:31.514Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
