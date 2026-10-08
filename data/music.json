@@ -2452,9 +2452,9 @@
     "operationId": "audio:1396ed3cb2728eb003d5f6d71d348e7a02ed877d37d8ac65ed7e0499b1d7f913",
     "sha256": "1396ed3cb2728eb003d5f6d71d348e7a02ed877d37d8ac65ed7e0499b1d7f913",
     "sequence": 76,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "连锁反应-林姗姗",
     "originalName": "连锁反应-林姗姗.mp3",
     "filename": "076-lian-suo-fan-ying-lin-shan-shan.mp3",
@@ -2474,11 +2474,11 @@
     },
     "path": "music/076-lian-suo-fan-ying-lin-shan-shan.mp3",
     "cdnPath": "/audio/076-lian-suo-fan-ying-lin-shan-shan.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/076-lian-suo-fan-ying-lin-shan-shan.mp3",
     "createdAt": "2026-10-08T12:42:47.491Z",
     "sourceCompletedAt": "2026-10-08T12:42:53.075Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-10-08T12:43:06.779Z",
+    "uploadedAt": "2026-10-08T12:43:06.779Z",
     "uploader": null
   }
 ]
