@@ -2316,9 +2316,9 @@
     "operationId": "audio:05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
     "sha256": "05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
     "sequence": 72,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "1",
     "originalName": "1.mp3",
     "filename": "072-1.mp3",
@@ -2338,11 +2338,11 @@
     },
     "path": "music/072-1.mp3",
     "cdnPath": "/audio/072-1.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/072-1.mp3",
     "createdAt": "2026-10-08T07:01:47.057Z",
     "sourceCompletedAt": "2026-10-08T07:01:51.033Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-10-08T07:02:01.726Z",
+    "uploadedAt": "2026-10-08T07:02:01.726Z",
     "uploader": null
   }
 ]
