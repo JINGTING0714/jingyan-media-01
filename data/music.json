@@ -2486,7 +2486,7 @@
     "operationId": "audio:601dd01519cc3e1ff1f74fe41208e1bd498a29b0a9e258aa618f1237d022b5ad",
     "sha256": "601dd01519cc3e1ff1f74fe41208e1bd498a29b0a9e258aa618f1237d022b5ad",
     "sequence": 77,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "天若有情-黄丽玲",
