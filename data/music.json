@@ -2452,7 +2452,7 @@
     "operationId": "audio:1396ed3cb2728eb003d5f6d71d348e7a02ed877d37d8ac65ed7e0499b1d7f913",
     "sha256": "1396ed3cb2728eb003d5f6d71d348e7a02ed877d37d8ac65ed7e0499b1d7f913",
     "sequence": 76,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "连锁反应-林姗姗",
