@@ -2350,9 +2350,9 @@
     "operationId": "audio:78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
     "sha256": "78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
     "sequence": 73,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "最爱-周慧敏",
     "originalName": "最爱-周慧敏.mp3",
     "filename": "073-zui-ai-zhou-hui-min.mp3",
@@ -2372,11 +2372,11 @@
     },
     "path": "music/073-zui-ai-zhou-hui-min.mp3",
     "cdnPath": "/audio/073-zui-ai-zhou-hui-min.mp3",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/audio/073-zui-ai-zhou-hui-min.mp3",
     "createdAt": "2026-10-08T12:40:44.457Z",
     "sourceCompletedAt": "2026-10-08T12:40:48.731Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-10-08T12:40:59.979Z",
+    "uploadedAt": "2026-10-08T12:40:59.979Z",
     "uploader": null
   }
 ]
