@@ -2350,7 +2350,7 @@
     "operationId": "audio:78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
     "sha256": "78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
     "sequence": 73,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "最爱-周慧敏",
