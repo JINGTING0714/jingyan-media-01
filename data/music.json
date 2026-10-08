@@ -2316,7 +2316,7 @@
     "operationId": "audio:05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
     "sha256": "05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
     "sequence": 72,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "1",
