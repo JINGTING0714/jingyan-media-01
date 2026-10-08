@@ -2310,5 +2310,39 @@
     "cdnPublishedAt": "2026-09-30T08:18:02.946Z",
     "uploadedAt": "2026-09-30T08:18:02.946Z",
     "uploader": null
+  },
+  {
+    "id": "music-000072",
+    "operationId": "audio:05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
+    "sha256": "05ec8be4a0d4d2a770755cf13aaada0f6fd780be3f2a1f8c81e12daf13b0eb6c",
+    "sequence": 72,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "1",
+    "originalName": "1.mp3",
+    "filename": "072-1.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 4.19,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/072-1.mp3"
+    },
+    "path": "music/072-1.mp3",
+    "cdnPath": "/audio/072-1.mp3",
+    "url": null,
+    "createdAt": "2026-10-08T07:01:47.057Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
