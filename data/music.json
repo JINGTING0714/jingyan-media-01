@@ -2344,5 +2344,39 @@
     "cdnPublishedAt": "2026-10-08T07:02:01.726Z",
     "uploadedAt": "2026-10-08T07:02:01.726Z",
     "uploader": null
+  },
+  {
+    "id": "music-000073",
+    "operationId": "audio:78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
+    "sha256": "78708bdeb00e128d6a86510d58a9a2c1eb74dd1de8e0d84755f4469a04d4a60f",
+    "sequence": 73,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "最爱-周慧敏",
+    "originalName": "最爱-周慧敏.mp3",
+    "filename": "073-zui-ai-zhou-hui-min.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 10.129,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/073-zui-ai-zhou-hui-min.mp3"
+    },
+    "path": "music/073-zui-ai-zhou-hui-min.mp3",
+    "cdnPath": "/audio/073-zui-ai-zhou-hui-min.mp3",
+    "url": null,
+    "createdAt": "2026-10-08T12:40:44.457Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
