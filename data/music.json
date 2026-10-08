@@ -2412,5 +2412,39 @@
     "cdnPublishedAt": "2026-10-08T12:41:40.753Z",
     "uploadedAt": "2026-10-08T12:41:40.753Z",
     "uploader": null
+  },
+  {
+    "id": "music-000075",
+    "operationId": "audio:d528268e726267cc152d5f3df30c32fdd520e5c467f6cb88e13c3830e7975a18",
+    "sha256": "d528268e726267cc152d5f3df30c32fdd520e5c467f6cb88e13c3830e7975a18",
+    "sequence": 75,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "阿梨粤 - 活着viva",
+    "originalName": "阿梨粤 - 活着viva.mp3",
+    "filename": "075-a-li-yue-huo-zheviva.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 7.586,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/075-a-li-yue-huo-zheviva.mp3"
+    },
+    "path": "music/075-a-li-yue-huo-zheviva.mp3",
+    "cdnPath": "/audio/075-a-li-yue-huo-zheviva.mp3",
+    "url": null,
+    "createdAt": "2026-10-08T12:42:06.566Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
