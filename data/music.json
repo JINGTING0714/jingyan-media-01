@@ -2378,5 +2378,39 @@
     "cdnPublishedAt": "2026-10-08T12:40:59.979Z",
     "uploadedAt": "2026-10-08T12:40:59.979Z",
     "uploader": null
+  },
+  {
+    "id": "music-000074",
+    "operationId": "audio:0b2206e977fe3d0fb1d89885f1087cbc97c469387415b96f301de7286168b0ad",
+    "sha256": "0b2206e977fe3d0fb1d89885f1087cbc97c469387415b96f301de7286168b0ad",
+    "sequence": 74,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "一格格 (DJ版)-DreamSky",
+    "originalName": "一格格 (DJ版)-DreamSky.mp3",
+    "filename": "074-yi-ge-ge-djban-dreamsky.mp3",
+    "type": "audio",
+    "format": "mp3",
+    "sizeMB": 1.478,
+    "repository": {
+      "id": "audio-01",
+      "name": "jingyan-media-01",
+      "fullName": "JINGTING0714/jingyan-media-01"
+    },
+    "source": {
+      "repositoryId": "audio-01",
+      "repo": "JINGTING0714/jingyan-media-01",
+      "branch": "main",
+      "path": "music/074-yi-ge-ge-djban-dreamsky.mp3"
+    },
+    "path": "music/074-yi-ge-ge-djban-dreamsky.mp3",
+    "cdnPath": "/audio/074-yi-ge-ge-djban-dreamsky.mp3",
+    "url": null,
+    "createdAt": "2026-10-08T12:41:27.801Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
