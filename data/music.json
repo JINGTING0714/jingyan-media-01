@@ -2418,7 +2418,7 @@
     "operationId": "audio:d528268e726267cc152d5f3df30c32fdd520e5c467f6cb88e13c3830e7975a18",
     "sha256": "d528268e726267cc152d5f3df30c32fdd520e5c467f6cb88e13c3830e7975a18",
     "sequence": 75,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "阿梨粤 - 活着viva",
